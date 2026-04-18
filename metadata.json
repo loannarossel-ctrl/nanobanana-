@@ -1,0 +1,6 @@
+{
+  "name": "Nano Banana Prompt Maker",
+  "description": "智能海报设计文案提取与 Nano Banana 提示词生成工具，支持文字、图片和文件输入。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
